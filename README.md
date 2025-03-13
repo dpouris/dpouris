@@ -22,24 +22,26 @@ I'm a software engineer with a deep passion for systems programming and networki
 ## 📌 Pinned Projects
 
 <!-- Replace {repo} with your actual repository name -->
-[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
-[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=rs-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
-[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=vita&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
+[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
+[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=rs-docker&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
+[![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=vita&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{repo})
 
 ---
 
 ## 🔥 My GitHub Stats
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpouris&show_icons=true&theme=radical)
+  <!-- GitHub Stats Card -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpouris&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&&title_color=F85D7F&icon_color=F8D866)
+  
+  <!-- GitHub Streak Card -->
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dpouris&theme=radical&hide_border=false&short_numbers=true)
+  
+  <!-- Top Languages Card -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpouris&layout=compact&theme=radical)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpouris&layout=compact&theme=radical)
-
-<!-- GitHub Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dpouris&theme=monokai-metallian&hide_border=false&short_numbers=true)
 
 ---
+
 
 ## 💻 Languages & Tools
 
