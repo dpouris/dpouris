@@ -1,16 +1,3 @@
-<style>
-  @media (max-width: 600px) {
-    .projects {
-      width: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-  }
-</style>
-
 # Hey there, I'm dpouris! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dpouris)
@@ -33,7 +20,7 @@ I'm a software engineer with a deep passion for systems programming and networki
 ---
 
 ## 📌 Pinned Projects
-<div class="projects">
+<div style="width: 100%;display: flex;flex-direction: column;justify-content: space-between;align-items: center;margin-bottom: 20px;">
 
   [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{goster})
   [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=rs-docker&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{rs-docker})
