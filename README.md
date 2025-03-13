@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dpouris)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Follow-blue?style=for-the-badge&logo=dev.to)](https://dev.to/dpouris)
 [![Medium](https://img.shields.io/badge/Medium-Follow-blue?style=for-the-badge&logo=medium)](https://medium.com/@jimpouris0)
-<!-- [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=html5)](https://dpouris.com) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=go)](https://dpouris.com)
+<!-- [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=html5)](https://dpouris.com) -->
 
 I'm a software engineer with a deep passion for systems programming and networking. I continuously explore cutting-edge technologies and best practices to build scalable, high-performance applications. I also enjoy coffee :)
 
