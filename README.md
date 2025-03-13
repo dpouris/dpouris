@@ -20,14 +20,11 @@ I'm a software engineer with a deep passion for systems programming and networki
 ---
 
 ## 📌 Pinned Projects
-<div style="width: 100%;display: flex;flex-direction: column;justify-content: space-between;align-items: center;margin-bottom: 20px;">
-
-  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{goster})
-  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=rs-docker&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{rs-docker})
-  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=interm&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{interm})
-  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=vita&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{vita})
-  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=titan&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/{titan})
-</div>
+  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/goster)
+  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=rs-docker&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/rs-docker)
+  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=interm&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/interm)
+  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=vita&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/vita)
+  [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=titan&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/titan)
 
 ---
 
