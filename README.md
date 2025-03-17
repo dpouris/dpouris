@@ -18,6 +18,8 @@ I'm a software engineer with a deep passion for systems programming and networki
 - 📫 How to reach me: [contact@dpouris.com](mailto:contact@dpouris.com)
 
 ---
+  <!-- GitHub Summary -->
+  ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpouris&theme=radical&hide_border=false&short_numbers=true)
 
 ## 📌 Pinned Projects
   [![Pinned Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dpouris&repo=goster&theme=radical&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false)](https://github.com/dpouris/goster)
@@ -36,8 +38,10 @@ I'm a software engineer with a deep passion for systems programming and networki
   <!-- GitHub Streak Card -->
   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dpouris&theme=radical&hide_border=false&short_numbers=true)
   
+  
+  
   <!-- Top Languages Card -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpouris&layout=compact&theme=radical)
+  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpouris&layout=compact&theme=radical) -->
 
 
 ---
