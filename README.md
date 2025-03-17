@@ -61,11 +61,11 @@ I'm a software engineer with a deep passion for systems programming and networki
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/dpouris/goster/pull/61) in [dpouris/goster](https://github.com/dpouris/goster)
-2. 🔓 Reopened issue [#59](https://github.com/dpouris/goster/issues/59) in [dpouris/goster](https://github.com/dpouris/goster)
-3. 🔒 Closed issue [#59](https://github.com/dpouris/goster/issues/59) in [dpouris/goster](https://github.com/dpouris/goster)
-4. 🎉 Merged PR [#60](https://github.com/dpouris/goster/pull/60) in [dpouris/goster](https://github.com/dpouris/goster)
-5. 💪 Opened PR [#60](https://github.com/dpouris/goster/pull/60) in [dpouris/goster](https://github.com/dpouris/goster)
+1. 🎉 Merged PR [#61](https://github.com/dpouris/goster/pull/61) in [dpouris/goster](https://github.com/dpouris/goster)
+2. 💪 Opened PR [#61](https://github.com/dpouris/goster/pull/61) in [dpouris/goster](https://github.com/dpouris/goster)
+3. 🔓 Reopened issue [#59](https://github.com/dpouris/goster/issues/59) in [dpouris/goster](https://github.com/dpouris/goster)
+4. 🔒 Closed issue [#59](https://github.com/dpouris/goster/issues/59) in [dpouris/goster](https://github.com/dpouris/goster)
+5. 🎉 Merged PR [#60](https://github.com/dpouris/goster/pull/60) in [dpouris/goster](https://github.com/dpouris/goster)
 <!--END_SECTION:activity-->
 
 ---
